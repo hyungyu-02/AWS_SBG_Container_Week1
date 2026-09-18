@@ -1,0 +1,3 @@
+ingress:
+  host: myapp.local
+  path: /
